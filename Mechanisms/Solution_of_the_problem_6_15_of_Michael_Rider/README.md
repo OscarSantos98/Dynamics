@@ -9,10 +9,10 @@ The problem was solved using **Python**, the only library that is required to ru
 
 The solutions for this problem according to the program are included in the following table.
 
-Angular velocities *rad/s* | | Angular accelerations *rad/s^2* | 
------------- | ------------- | ------------ | -------------
-omega2 | 9 | alpha2 | 0
-omega3 | 2.09422879753408 | alpha3 | 0.282726957185647
-omega4 | 8.28285949170457 | alpha4 | -17.0777511678876
-omega5 | -2.18777796287317 | alpha5 | -5.34760762788408
-omega6 | 7.76966997860839 | alpha6 | 21.0388849545367
+| Angular velocities *rad/s* | Value | Angular accelerations *rad/s^2* | Value |
+|:--------------------------:|:-------------------:|:-------------------------------:|:-------------------:|
+| omega2 | 9 | alpha2 | 0 |
+| omega3 | 2.09422879753408 | alpha3 | 0.282726957185647 |
+| omega4 | 8.28285949170457 | alpha4 | -17.0777511678876 |
+| omega5 | -2.18777796287317 | alpha5 | -5.34760762788408 |
+| omega6 | 7.76966997860839 | alpha6 | 21.0388849545367 |
